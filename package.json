@@ -1,6 +1,7 @@
 {
   "name": "ng2-translate",
   "description": "An implementation of angular translate for Angular 2",
+  "version": "0.0.1",
   "scripts": {
     "test": "tsc && karma start",
     "test-watch": "tsc && concurrently \"tsc -w\" \"karma start karma.conf.js\"",
