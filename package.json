@@ -24,7 +24,8 @@
   "bugs": {
     "url": "https://github.com/ocombe/ng2-translate/issues"
   },
-  "main": ["ng2-translate.ts", "./src/**"],
+  "main": "ng2-translate.ts",
+  "files": ["./src/**"],
   "module": "ng2-translate.ts",
   "typings": "./ng2-translate.d.ts",
   "homepage": "https://github.com/ocombe/ng2-translate",
